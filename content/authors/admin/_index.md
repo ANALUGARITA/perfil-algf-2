@@ -3,7 +3,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: Lic. Topografía y Geodesia
+  - course: Lic. Ing. Topografía y Geodesia
     institution: Escuela de Topografía, Catastro y Geodesia, Universidad Nacional, Costa Rica
     year: 2018
   - course: Bach. Ing. Topógrafa
@@ -42,7 +42,7 @@ superuser: true
 title: Ana Lucía Garita Fernández
 ---
 
-Ana Lucía Garita Fernández es una ingeniera topografa especialista en geodesia, graduada de la Universidad Nacional en el 2018. Actualmente se encuentra estudiando un posgrado den Sisteamas de Información Geográfica y Teledetección. Sus intereses de investigación es la geodesia aplicada y el descubrimiento de softwares alternativos y novedosos para manejar SIG. 
+Ana Lucía Garita Fernández es una ingeniera topografa especialista en geodesia, graduada de la Universidad Nacional en el 2018. Actualmente se encuentra estudiando un posgrado den Sistemas de Información Geográfica y Teledetección. Sus intereses de investigación es la geodesia aplicada y el descubrimiento de softwares alternativos y novedosos para manejar SIG. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/01_Curriculum_Ana_Lucia_Garita_Fernandez.pdf" "newtab" >}}resumé{{< /staticref >}}.
