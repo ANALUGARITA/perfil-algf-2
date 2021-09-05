@@ -3,7 +3,7 @@ authors: []
 categories: []
 date: "2021-09-05T00:00:00Z"
 slides:
-  highlight_style: github
+  highlight_style: dracula
   theme: beige
 summary: Fotografías del procesado del café en Costa Rica.
 tags: []
