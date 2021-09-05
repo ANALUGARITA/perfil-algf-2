@@ -1,29 +1,71 @@
 ---
 authors: []
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: "2021-09-05T00:00:00Z"
 slides:
-  highlight_style: dracula
-  theme: black
-summary: An introduction to using Wowchemy's Slides feature.
+  highlight_style: github
+  theme: white
+summary: Fotografías del procesado del café en Costa Rica.
 tags: []
-title: Slides
+title: Presentación
 ---
 
 # Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
 
 ---
 
-## Features
+## Tipos de procesado del café
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- Natural
+- Honey
+- Semi-lavado/Lavado
 
 ---
+
+{{< slide background-image="/media/cafe/Natural1.png" >}}
+
+## Café Natural
+
+La cereza madura con su piel es secada en camas africanas al sol, manteniendo gran cantidad de sacarosa y ácidos, lo cual crea un sabor exótico y distinguible.
+
+```markdown
+{{</* slide background-image="/media/cafe/Natural1.png" */>}}
+{{</* slide background-color="#0000FF" */>}}
+{{</* slide class="my-style" */>}}
+```
+
+---
+
+{{< slide background-image="/media/cafe/cafe-honey.jpg" >}}
+
+## Café Honey
+
+Este café es secado bajo el sol sin su cáscara, manteniendo el mucílago que contiene una gran cantidad de sacarosa y ácidos, lo cual da origen al nombre del proceso Honey y su sabor inigualable.
+
+```markdown
+{{</* slide background-image="/media/cafe/cafe-honey.jpg" */>}}
+{{</* slide background-color="#0000FF" */>}}
+{{</* slide class="my-style" */>}}
+```
+
+---
+
+{{< slide background-image="/media/cafe/cafe-lavado.jpg" >}}
+
+## Café Semi-Lavado / Lavado
+
+Se separa el grano de café de su cáscara (se despulpa) y, posteriormente, se fermenta en tanques de agua durante horas o incluso días hasta que el mucílago, la capa más fina que recubre el grano, desaparece completamente.
+
+```markdown
+{{</* slide background-image="/media/cafe/cafe-lavado.jpg" */>}}
+{{</* slide background-color="#0000FF" */>}}
+{{</* slide class="my-style" */>}}
+```
+
+---
+
 
 ## Controls
 
