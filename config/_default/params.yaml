@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: analugarita@gmail.com
+#email: analugarita@gmail.com
 phone: +506 85616886
 address:
   street: Calle Siles, San Pedro
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '9.930416704286745'
   longitude: '-84.04044789480221'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Apts. Vistas a la Pista
 office_hours:
   - 'Lunes a Viernes 7:00 to 15:00'
 #appointment_url: 'https://calendly.com'
