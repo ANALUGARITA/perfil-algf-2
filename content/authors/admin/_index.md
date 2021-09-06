@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Mis intereses de investigación son la geodesia aplicada y el descubrimiento de softwares alternativos y novedosos para manejar SIG. 
 education:
   courses:
   - course: Lic. Ing. Topografía y Geodesia

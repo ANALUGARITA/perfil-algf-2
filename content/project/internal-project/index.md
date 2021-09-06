@@ -27,8 +27,3 @@ Muy poco porcentaje del café que se cultiva alrededor del mundo alcanza el esta
 Existen varios tipos de procesados de café de especialidad, uno de ellos es el Proceso Natural. Este es una mezcla de granos de café especialidad, origen Tarrazú, 100% Arábica de las variedades Caturra y Catuai, cultivado y procesado en la finca el Bautismo, en el cantón de León Cortés Castro a una altitud de 1800 m.s.n.m sobre el territorio costarricense. La cereza madura con su piel es secada en camas africanas al sol, manteniendo gran cantidad de sacarosa y ácidos, lo cual crea un sabor exótico y distinguible. Su acidez fina, cuerpo ligero y notas frutales, brindan una experiencia postgusto corto y agradable, lo hacen único y exquisito al paladar.
 
 Por otra parte, existe el café de especialidad realizado mediante el Proceso Natural. Este café es cultivado y procesado en la finca Juanachute, en el cantón de León Cortés Castro a una altitud de 1800 m.s.n.m en el territorio costarricense. Su proceso conlleva un secado bajo el sol sin su cáscara, manteniendo el mucílago que contiene una gran cantidad de sacarosa y ácidos, lo cual da origen al nombre del proceso Honey y su sabor inigualable. Sus cualidades de dulzor y acidez balanceada con notas afrutadas, brinda una experiencia postgusto ligera, lo cual lo hace único y exquisito al paladar.
-
-
-
-
-
