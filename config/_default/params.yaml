@@ -30,8 +30,8 @@ address:
   country: Costa Rica
   country_code: CR
 coordinates:
-  latitude: '9.930416704286745'
-  longitude: '-84.04044789480221'
+  latitude: '9.930416'
+  longitude: '-84.040447'
 directions: Apts. Vistas a la Pista
 office_hours:
   - 'Lunes a Viernes 7:00 to 15:00'
@@ -53,10 +53,10 @@ contact_links:
 #    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
-# - icon: whatsapp
-#    icon_pack: fab
-#    name: Discuss on Forum
-#    link: 'https://web.whatsapp.com/?/es'
+ - icon: whatsapp
+    icon_pack: fab
+    name: whatsapp
+    link: 'https://web.whatsapp.com/?/es'
 
 
 # Site header
