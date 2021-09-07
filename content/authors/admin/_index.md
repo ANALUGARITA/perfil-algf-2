@@ -4,10 +4,10 @@ education:
   courses:
   - course: Lic. Ing. Topografía y Geodesia
     institution: Escuela de Topografía, Catastro y Geodesia, Universidad Nacional, Costa Rica
-    year: 2018
+    year: 2019
   - course: Bach. Ing. Topógrafa
     institution: Escuela de Topografía, Catastro y Geodesia, Universidad Nacional, Costa Rica
-    year: 2008
+    year: 2009
 email: ""
 highlight_name: false
 interests:
