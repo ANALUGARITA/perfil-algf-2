@@ -53,10 +53,10 @@ contact_links:
 #    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
- - icon: whatsapp
-    icon_pack: fab
-    name: Discuss on Forum
-    link: 'https://web.whatsapp.com/?/es'
+# - icon: whatsapp
+#    icon_pack: fab
+#    name: Discuss on Forum
+#    link: 'https://web.whatsapp.com/?/es'
 
 
 # Site header
