@@ -1,5 +1,6 @@
 ---
 bio: Mis intereses de investigación son la geodesia aplicada y el descubrimiento de softwares alternativos y novedosos para manejar SIG. 
+
 education:
   courses:
   - course: Lic. Ing. Topografía y Geodesia
@@ -8,16 +9,20 @@ education:
   - course: Bach. Ing. Topógrafa
     institution: Escuela de Topografía, Catastro y Geodesia, Universidad Nacional, Costa Rica
     year: 2008
+    
 email: "analugarita@gmail.com"
 highlight_name: false
 interests:
 - Topografía y Geodesia
 - Sistemas de Información Geográfica
 - Programación
+
 organizations:
 - name: Consejo Nacional de Vialidad
   url: https://conavi.go.cr/
+
 role: Ing. Topógrafa y Geodesta
+
 social:
 - icon: envelope
   icon_pack: fas
