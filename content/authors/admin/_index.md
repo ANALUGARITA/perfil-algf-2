@@ -1,6 +1,6 @@
 ---
 bio: Mis intereses de investigación son la geodesia aplicada y el descubrimiento de softwares alternativos y novedosos para manejar SIG. 
-Educación:
+Education:
   courses:
   - course: Lic. Ing. Topografía y Geodesia
     institution: Escuela de Topografía, Catastro y Geodesia, Universidad Nacional, Costa Rica
@@ -10,7 +10,7 @@ Educación:
     year: 2008
 email: "analugarita@gmail.com"
 highlight_name: false
-Intereses:
+Interest:
 - Topografía y Geodesia
 - Sistemas de Información Geográfica
 - Programación
